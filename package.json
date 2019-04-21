@@ -1,0 +1,27 @@
+{
+  "name": "storming",
+  "version": "1.0.0",
+  "description": "Configures entities using orm2",
+  "main": "storming.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyRuffino/storming.git"
+  },
+  "keywords": [
+    "orm2",
+    "entities",
+    "orm"
+  ],
+  "author": "Anthony Ruffino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyRuffino/storming/issues"
+  },
+  "homepage": "https://github.com/AnthonyRuffino/storming#readme",
+  "dependencies": {
+    "orm": "^5.0.4"
+  }
+}
